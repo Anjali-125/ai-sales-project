@@ -33,7 +33,7 @@ The goal is to transform raw sales data into meaningful business insights and vi
 ---
 
 ##  Project Files
-- `sales_data.csv` → Raw dataset(archive (2).zip ) 
+- `sales_data.csv` → Raw dataset
 - `clean_sales_data.csv` → Cleaned dataset  
 - `analysis.ipynb` → Python ETL + analysis code  
 
