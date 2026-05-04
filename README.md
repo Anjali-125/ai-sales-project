@@ -46,11 +46,11 @@ The goal is to transform raw sales data into meaningful business insights and vi
 
 ---
 
-## 👤 Author
+##  Author
 Anjali Madarapu  
 AI | Data Analytics | ETL | Tableau  
 
 ---
 
-## 📬 Contact
+##  Contact
 Email: anjaliraon56@gmail.com
